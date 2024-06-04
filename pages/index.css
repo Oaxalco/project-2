@@ -18,6 +18,7 @@ input[input="text"]{
     padding: 20px 30px;
     font-size: 24px;
     font-weight: bold;
-    border: none 2px solid black;
+    border: none;
     border-radius: 5px;
+    border: 2px solid black;
 }
